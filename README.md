@@ -42,7 +42,7 @@ Note: Make sure you have a device connected with debugging mode enabled
 Home Screen
 
 
-https://github.com/isaaxh/NoteApp/assets/98271596/dd3a8d8f-a9f5-4b2e-b74a-a979e3a8b77b
+
 
 
 
