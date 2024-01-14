@@ -41,8 +41,5 @@ Note: Make sure you have a device connected with debugging mode enabled
 
 Home Screen
 
-
-
-
-
+https://github.com/isaaxh/React-Native-Timer/assets/98271596/dc960c02-eef4-48ef-b2ca-ca84fada72ae
 
